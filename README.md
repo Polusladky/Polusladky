@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=640&height=70&lines=%24+whoami;USERNAME;%24+sudo+rm+-rf+boredom" alt="typing header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=640&height=70&lines=%24+whoami;TheLoLCaKe;%24+python3+main.py;%24+sudo+rm+-rf+boredom" alt="typing header" />
 
 </div>
 
 ```
- _   _  ___  ____  _   _ __  __ _____ ____  __  __ ___ _   _    _    _
-| | | |/ _ \/ ___|| | | |  \/  | ____|  _ \|  \/  |_ _| \ | |  / \  | |
-| | | | | | \___ \| |_| | |\/| |  _| | |_) | |\/| || ||  \| | / _ \ | |
-| |_| | |_| |___) |  _  | |  | | |___|  _ <| |  | || || |\  |/ ___ \| |___
- \___/ \___/|____/|_| |_|_|  |_|_____|_| \_\_|  |_|___|_| \_/_/   \_\_____|
+ _____ _          _          _     ____      _  __
+|_   _| |__   ___| |    ___ | |   / ___|__ _| |/ /___
+  | | | '_ \ / _ \ |   / _ \| |  | |   / _` | ' // _ \
+  | | | | | |  __/ |__| (_) | |__| |__| (_| | . \  __/
+  |_| |_| |_|\___|_____\___/|_____\____\__,_|_|\_\___|
 ```
 
 ```bash
 $ whoami
-USERNAME
+TheLoLCaKe
 
 $ cat about.txt
-> Имя:        твоё имя / ник
+> Имя:        твоё имя
 > Откуда:     город, страна
 > Учусь:      где учишься / работаешь
-> Занимаюсь:  чем занимаешься (веб, 1С, Python, ...)
+> Занимаюсь:  Python, 1С
 > Девиз:      "пиши код, ломай систему"
 
 $ uptime
@@ -33,10 +33,7 @@ $ ls skills/
 
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/1C-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/1C-000000?style=for-the-badge" />
 </p>
 
 ```bash
@@ -49,14 +46,14 @@ drwxr-xr-x  project-two    описание проекта в одну стро�
 drwxr-xr-x  project-three  описание проекта в одну строку
 ```
 
-> Ссылки: [project-one](https://github.com/USERNAME/project-one) · [project-two](https://github.com/USERNAME/project-two) · [project-three](https://github.com/USERNAME/project-three)
+> Ссылки: [project-one](https://github.com/TheLoLCaKe/project-one) · [project-two](https://github.com/TheLoLCaKe/project-two) · [project-three](https://github.com/TheLoLCaKe/project-three)
 
 ```bash
 $ git log --stat
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide=issues&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLoLCaKe&show_icons=true&hide=issues&bg_color=000000&text_color=FFFFFF&title_color=FFFFFF&icon_color=FFFFFF&border_color=FFFFFF&hide_border=false" alt="stats" />
 </p>
 
 ```bash
